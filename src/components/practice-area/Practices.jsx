@@ -64,7 +64,7 @@ const PracticeAreas = () => {
     }, []);
 
   return (
-    <section className="bg-[#1b202b] text-white px-4 sm:px-6 lg:px-8 py-16 -mt-21 mb-20">
+    <section className="bg-[#1b202b] text-white px-4 sm:px-6 lg:px-8 py-16 -mt-22 mb-20">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold mb-10 text-center">Practice Areas</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">

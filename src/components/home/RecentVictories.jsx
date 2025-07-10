@@ -52,7 +52,7 @@ const VictoryCard = ({ amount, title, date }) => (
 
 const RecentVictories = () => {
   return (
-    <section className="-mt-21 bg-[#1b202b] py-16">
+    <section className="-mt-22 bg-[#1b202b] py-16">
       <h2 className="text-center text-white text-3xl md:text-5xl font-bold mb-10">Our Recent Victories</h2>
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 px-4">
         {cases.map((c, i) => (

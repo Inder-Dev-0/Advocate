@@ -41,7 +41,7 @@ const ContactForm = () => {
     }, []);
 
     return (
-        <section className="bg-[#1b202b] text-white px-4 sm:px-6 lg:px-8 py-16 -mt-21">
+        <section className="bg-[#1b202b] text-white px-4 sm:px-6 lg:px-8 py-16 -mt-22">
             <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
                 <div ref={sectionRef1}>
                     <h2 className="text-3xl sm:text-4xl font-bold mb-4">General Inquiries</h2>

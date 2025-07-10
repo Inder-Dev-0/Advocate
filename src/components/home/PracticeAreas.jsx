@@ -49,7 +49,7 @@ const PracticeAreas = () => {
   return (
     <section className="bg-[#1b202b] py-16 text-white">
       <div className="container mx-auto px-4 grid grid-cols-1 gap-10">
-        <div className='grid grid-cols-2 gap-10'>
+        <div className='grid md:grid-cols-2 gap-10'>
           <h2 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">Explore The Perfect<br />Our Practice Areas</h2>
           <p className="text-sm text-gray-300">
             We are a group of civil litigation/trial attorneys who focus on providing a justice based on the issues relating to

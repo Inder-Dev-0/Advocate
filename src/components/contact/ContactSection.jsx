@@ -11,7 +11,7 @@ const ContactSection = () => {
     })
 
     return (
-        <div className="relative flex -top-21 bg-cover bg-center max-h-max py-8" style={{ backgroundImage: `url(${advocate})` }}>
+        <div className="relative flex -top-22 bg-cover bg-center max-h-max py-8" style={{ backgroundImage: `url(${advocate})` }}>
             <div className="absolute inset-0 bg-black/70"></div>
             <div className="relative container mx-auto flex flex-col md:flex-row justify-between items-center px-4 py-30 sm:py-20 gap-10">
                 <div ref={textRef} className="text-white max-w-xl">
